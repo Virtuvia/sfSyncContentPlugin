@@ -1,0 +1,13 @@
+{
+    "name": "virtuvia/sf-sync-content-plugin",
+    "type": "symfony1-plugin",
+    "authors": [
+        {
+            "name": "Alex Gilbert",
+            "email": "alex@punkave.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
